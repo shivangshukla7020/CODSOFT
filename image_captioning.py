@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 import os
 
 # Define paths  
-image_folder_path = 'image_dataset/images/'  
+image_folder_path = 'image_dataset/images/'  # Use the data set I provided containing images and context
 caption_file_path = 'image_dataset/captions.txt'  
 
 # Initialize a dictionary to hold image filenames and their captions  
